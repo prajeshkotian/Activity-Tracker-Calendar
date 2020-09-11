@@ -1,0 +1,13 @@
+﻿.User{
+    margin:10px;
+    border:1px solid #3c3636;
+    padding: 20px;
+    background-color: #341167;
+    color: white;
+    width:50%;
+}
+
+.User:hover{
+    z-index:10;
+    transform:scale(1.1);
+}

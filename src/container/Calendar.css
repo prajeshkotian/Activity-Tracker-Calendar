@@ -1,0 +1,22 @@
+﻿.Calendar {
+    position: fixed;
+    z-index: 600;
+    background-color: white;
+    width: 90%;
+    height:auto;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px black;
+    padding: 16px;
+    left: 15%;
+    top: 0%;
+    box-sizing: border-box;
+    transition: all 0.3s ease-out;
+}
+
+
+@media (min-width: 600px) {
+    .Calendar {
+        width: 1000px;
+        left: calc(50% - 500px);
+    }
+}
