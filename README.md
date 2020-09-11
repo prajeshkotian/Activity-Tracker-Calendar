@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This Web APP lists users that are retrived with an backend API(https://github.com/prajeshkotian/Node-Dummy-activity-API.git) and displays the data on the Home Page.
 One Clicking on a user in Opens a Modal whoch displays todays activity records for the user if exists, on hovering over the activity in modal it displays the start time of the activity.
-On the bottom of the Modal is a Complete Activity Records button which when clicked opens a calendar which displays month wise data by default, on clicking on a date it would open an agenda page for the day.
+On the bottom of the Modal is a Complete Activity Records button which when clicked opens a calendar which displays month wise data by default, on clicking on a date it would open an agenda page for the day and displays activity based on time zones.
 
 Please feel free to contact me to make any other changes that you would see fit  :).
 
