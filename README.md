@@ -5,7 +5,7 @@ One Clicking on a user in Opens a Modal whoch displays todays activity records f
 On the bottom of the Modal is a Complete Activity Records button which when clicked opens a calendar which displays month wise data by default, on clicking on a date it would open an agenda page for the day and displays activity based on time zones.
 
 Please feel free to contact me to make any other changes that you would see fit  :).
-
+UI can be accessed from this URL: https://calendar-frontend-prajesh.herokuapp.com/
 
 
 ## Available Scripts
